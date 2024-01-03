@@ -20,44 +20,38 @@
   
   </div>
 
-  ### Desenvolvimento Web
+  ### Web
 - HTML 
 - CSS
 - JavaScript
 - TypeScript
-- Sass
-- Bootstrap
   
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </p>
 
-### Controle de Versão
-- Git
-  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-</p>
+
 
 ### FrontEnd
 
 - Bulma
 - ReactJS
 - NextJS
+- Sass
+- Bootstrap
+- Tailwind
+
 <div style="display: inline_block"><br>
   <a> 
             <img id = 'thiago-bulma' heith = "40" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
           </a>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,sass,bootstrap,tailwind" />
   </a>
   
 </p>
-
-
 
 
 </div>
@@ -67,11 +61,26 @@
 - NodeJS
 - Express
 - NoSQL
+- MySQL
 - MongoDB
 - Ruby
+- Postgres
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongo,ruby" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongo,ruby,postgres" />
+  </a>
+  
+</p>
+
+### Version Control and Tools
+- Git
+- Docker
+- VSCode
+- Figma
+- Postman
+  
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,postman" />
   </a>
   
 </p>
