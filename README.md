@@ -2,7 +2,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # Thiago Silva 
-### 👩‍💻 Full-stack
+### 👩‍💻 Full-Stack JavaScript
 
 <div align="center">
   <a href="https://github.com/Eithiagosilva">
