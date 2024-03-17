@@ -40,7 +40,6 @@
 - NextJS
 - Sass
 - Bootstrap
-- Tailwind
 
 <div style="display: inline_block"><br>
   <a> 
@@ -48,7 +47,7 @@
           </a>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,sass,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,sass,bootstrap" />
   </a>
   
 </p>
