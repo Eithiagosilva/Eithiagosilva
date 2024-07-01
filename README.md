@@ -62,11 +62,10 @@
 - NoSQL
 - MySQL
 - MongoDB
-- Ruby
 - Postgres
 
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongo,ruby,postgres" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongo,postgres" />
   </a>
   
 </p>
